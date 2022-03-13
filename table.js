@@ -4,4 +4,4 @@ const people =[
 { name: "Nick", age: 41 },
 ];
 
-console.table(people)
+console.table(people[1].name)
